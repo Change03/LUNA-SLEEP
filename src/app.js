@@ -40,6 +40,7 @@ const products = [
     id: "prod-daily-cool",
     slug: "daily-cool-full-package-8pcs",
     name: "일상냉감 패드 풀패키지 8종세트",
+    displayName: "일상냉감 패드 8종세트",
     line: "Daily Cool",
     category: "침구",
     status: "ACTIVE",
@@ -76,6 +77,7 @@ const products = [
     id: "prod-memory-pillow",
     slug: "memory-cube-sleep-pillow",
     name: "기능성 메모리큐브 숙면베개",
+    displayName: "메모리큐브 숙면베개 4세트",
     line: "Sleep Support",
     category: "베개",
     status: "ACTIVE",
@@ -111,6 +113,7 @@ const products = [
     id: "prod-sofa-pad",
     slug: "cotton-quilting-washing-sofa-pad-carpet",
     name: "목화솜 자수퀼팅 통워싱 소파패드 & 카페트",
+    displayName: "목화솜 퀼팅 소파패드 3종",
     line: "Living Soft",
     category: "리빙",
     status: "ACTIVE",
@@ -146,6 +149,7 @@ const products = [
     id: "prod-washing-spread",
     slug: "high-frequency-washing-spread-3pcs",
     name: "고주파 워싱 스프레드 3종 베개커버 패키지",
+    displayName: "워싱 스프레드 3종 패키지",
     line: "Sleep Line",
     category: "침구",
     status: "ACTIVE",
@@ -181,6 +185,7 @@ const products = [
     id: "prod-blanket",
     slug: "soft-season-blanket",
     name: "루나앤슬립 시즌 블랭킷",
+    displayName: "시즌 블랭킷",
     line: "Season Touch",
     category: "블랭킷",
     status: "ACTIVE",
@@ -730,15 +735,18 @@ function productCard(product) {
     <article class="product-card">
       <a href="/products/${product.slug}" data-route>
         <div class="product-media">
-          <img src="${escapeHtml(pathToSrc(image))}" alt="${escapeHtml(image.alt || product.name)}" loading="lazy">
+          <img src="${escapeHtml(pathToSrc(image))}" alt="${escapeHtml(image.alt || displayProductName(product))}" loading="lazy">
         </div>
         <div class="product-body">
-          <span class="line-label">${escapeHtml(product.line)}</span>
-          <h3>${escapeHtml(product.name)}</h3>
+          <h3>${productNameMarkup(displayProductName(product))}</h3>
+          <div class="card-tags">
+            <span class="line-label">${escapeHtml(product.line)}</span>
+            <span>${escapeHtml(product.category)}</span>
+          </div>
           <p class="product-summary">${escapeHtml(product.composition)}</p>
           ${priceMarkup(product)}
           <div class="product-meta">
-            <span>${escapeHtml(product.category)}</span>
+            <span>${escapeHtml(product.sizes.slice(0, 3).join(" / "))}</span>
             <span>${product.shippingFee === 0 ? "무료배송" : `${money(product.freeShippingThreshold)} 이상 무료배송`}</span>
           </div>
         </div>
@@ -760,14 +768,14 @@ function renderProduct(slug) {
     <section class="detail-layout">
       <div class="gallery-shell">
         <div class="gallery-main">
-          <img src="${escapeHtml(pathToSrc(selected))}" alt="${escapeHtml(selected.alt || product.name)}">
+          <img src="${escapeHtml(pathToSrc(selected))}" alt="${escapeHtml(selected.alt || displayProductName(product))}">
         </div>
         <div class="thumbnail-carousel">
           <button class="gallery-arrow" type="button" data-action="gallery-scroll" data-track-id="thumbs-${product.id}" data-delta="-1" aria-label="이전 이미지">‹</button>
           <div id="thumbs-${product.id}" class="thumbnail-row">
             ${gallery.map((assetItem) => `
               <button class="thumb-button ${assetItem.id === selected.id ? "active" : ""}" data-action="select-image" data-product-id="${product.id}" data-asset-id="${assetItem.id}" aria-label="이미지 선택">
-                <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem.alt || product.name)}" loading="lazy">
+                <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem.alt || displayProductName(product))}" loading="lazy">
               </button>
             `).join("")}
           </div>
@@ -775,8 +783,12 @@ function renderProduct(slug) {
         </div>
       </div>
       <div class="detail-copy">
-        <span class="line-label">${escapeHtml(product.line)}</span>
-        <h1>${escapeHtml(product.mainCopy)}</h1>
+        <h1>${productNameMarkup(displayProductName(product))}</h1>
+        <div class="title-meta">
+          <span class="line-label">${escapeHtml(product.line)}</span>
+          <span>${escapeHtml(product.category)}</span>
+        </div>
+        <p class="product-lead">${escapeHtml(product.mainCopy)}</p>
         <p class="subcopy">${escapeHtml(product.subCopy)}</p>
         ${priceMarkup(product, "margin-top: 18px;")}
         <div class="product-brief">
@@ -830,11 +842,22 @@ function renderProduct(slug) {
   `;
 }
 
+function productNameMarkup(name) {
+  return String(name ?? "")
+    .split(/(\s+)/)
+    .map((part) => part.trim() ? `<span class="name-word">${escapeHtml(part)}</span>` : part)
+    .join("");
+}
+
+function displayProductName(product) {
+  return product.displayName || product.name;
+}
+
 function salesDetailPage(product, gallery, detailImages) {
   const media = salesMedia(product, gallery, detailImages);
   const material = specValue(product, ["제품소재", "충전재"]) || product.materialCare;
   const storyTitle = "구성부터 확인하세요.";
-  const lead = `${product.name}은 ${product.composition}을 중심으로 ${product.colors.slice(0, 3).join(", ")} 컬러와 ${product.sizes.join(", ")} 사이즈를 한 번에 비교할 수 있게 정리했습니다.`;
+  const lead = `${displayProductName(product)}는 ${product.composition}을 중심으로 ${product.colors.slice(0, 3).join(", ")} 컬러와 ${product.sizes.join(", ")} 사이즈를 한 번에 비교할 수 있게 정리했습니다.`;
   const benefits = product.points.slice(0, 4);
   const moments = product.recommendedFor.slice(0, 3);
   const checklist = [
@@ -883,7 +906,7 @@ function salesDetailPage(product, gallery, detailImages) {
           </ul>
         </div>
         <div class="visual-image">
-          <img src="${escapeHtml(pathToSrc(media[0]))}" alt="${escapeHtml(media[0]?.alt || product.name)}" loading="lazy">
+          <img src="${escapeHtml(pathToSrc(media[0]))}" alt="${escapeHtml(media[0]?.alt || displayProductName(product))}" loading="lazy">
         </div>
       </section>
       <section class="sales-section package-section">
@@ -904,7 +927,7 @@ function salesDetailPage(product, gallery, detailImages) {
         <div class="scene-grid">
           ${media.slice(0, 4).map((assetItem, index) => `
             <figure>
-              <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem?.alt || product.name)}" loading="lazy">
+              <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem?.alt || displayProductName(product))}" loading="lazy">
               <figcaption>${escapeHtml(sceneCaption(product, index))}</figcaption>
             </figure>
           `).join("")}
@@ -941,7 +964,7 @@ function sceneCaption(product, index) {
     `${product.colors.slice(0, 3).join(" / ")} 컬러 무드`,
     `${product.category} 공간에 맞춘 활용 장면`
   ];
-  return captions[index] || product.name;
+  return captions[index] || displayProductName(product);
 }
 
 function specValue(product, labels) {
@@ -1100,9 +1123,9 @@ function cartItem(item, index) {
   const options = Object.entries(item.options || {}).map(([key, value]) => `${key}: ${value}`).join(" / ");
   return `
     <article class="cart-item">
-      <img src="${escapeHtml(item.image)}" alt="${escapeHtml(item.product.name)}">
+      <img src="${escapeHtml(item.image)}" alt="${escapeHtml(displayProductName(item.product))}">
       <div>
-        <strong>${escapeHtml(item.product.name)}</strong>
+        <strong>${escapeHtml(displayProductName(item.product))}</strong>
         <p>${escapeHtml(options)}</p>
         <div class="price-row"><span class="price">${money(item.price)}</span></div>
       </div>
