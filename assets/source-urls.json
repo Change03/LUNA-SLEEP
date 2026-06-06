@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "name": "일상냉감 패드 풀패키지 8종세트",
+      "slug": "daily-cool-full-package-8pcs",
+      "sourceUrls": [
+        "https://m.shinsegaetvshopping.com/display/detail/20072803"
+      ]
+    },
+    {
+      "name": "기능성 메모리큐브 숙면베개",
+      "slug": "memory-cube-sleep-pillow",
+      "sourceUrls": [
+        "https://m.shinsegaetvshopping.com/display/detail/20072551"
+      ]
+    },
+    {
+      "name": "고주파 워싱 스프레드 3종",
+      "slug": "high-frequency-washing-spread-3pcs",
+      "sourceUrls": [
+        "https://m.shinsegaetvshopping.com/display/detail/20072391"
+      ]
+    },
+    {
+      "name": "목화솜 자수퀼팅 통워싱 소파패드 & 카페트",
+      "slug": "cotton-quilting-washing-sofa-pad-carpet",
+      "sourceUrls": [
+        "https://m.shinsegaetvshopping.com/display/detail/20072537"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3207 @@
+{
+  "brand": "LUNA&SLEEP",
+  "generatedAt": "2026-06-06T11:07:37.954Z",
+  "dryRun": false,
+  "sourceFileUsed": "assets/source-urls.json",
+  "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+  "downloaded": [
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_i_20260408173906.jpg",
+      "originalFilename": "20072803_i_20260408173906.jpg",
+      "savedPath": "public/images/products/imported/daily-cool-full-package-8pcs/20072803_i_20260408173906-d234ee03c5.jpg",
+      "downloadedAt": "2026-06-06T11:07:38.765Z",
+      "hash": "d234ee03c561e71300164772a81f4a75df1c11dffde9f3d9bf80c7e942af2167",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_l_20260408173906.jpg?rs=720",
+      "originalFilename": "20072803_l_20260408173906.jpg",
+      "savedPath": "public/images/products/imported/daily-cool-full-package-8pcs/20072803_l_20260408173906-25de892954.jpg",
+      "downloadedAt": "2026-06-06T11:07:38.847Z",
+      "hash": "25de892954b2437e86720450ef26eaa5a9849edfc93f672b7e769509f08af2cd",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_al_20260408173906.jpg?rs=720",
+      "originalFilename": "20072803_al_20260408173906.jpg",
+      "savedPath": "public/images/products/imported/daily-cool-full-package-8pcs/20072803_al_20260408173906-c184ddbf57.jpg",
+      "downloadedAt": "2026-06-06T11:07:38.888Z",
+      "hash": "c184ddbf57dbcba6831a60dad1c814541064d140fabf281fb220a74aa8b28ed5",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_bl_20260408173906.jpg?rs=720",
+      "originalFilename": "20072803_bl_20260408173906.jpg",
+      "savedPath": "public/images/products/imported/daily-cool-full-package-8pcs/20072803_bl_20260408173906-3c14cffe73.jpg",
+      "downloadedAt": "2026-06-06T11:07:38.927Z",
+      "hash": "3c14cffe73ec1b10f64fb85e59edd83eee78b99b24cf3e2461e93d7cdc262681",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_cl_20260408173906.jpg?rs=720",
+      "originalFilename": "20072803_cl_20260408173906.jpg",
+      "savedPath": "public/images/products/imported/daily-cool-full-package-8pcs/20072803_cl_20260408173906-87672e3567.jpg",
+      "downloadedAt": "2026-06-06T11:07:38.950Z",
+      "hash": "87672e3567a7359eb88df01d050c7e6d983437e3800698c214f82bbe09738e3d",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_i_20260330174358.jpg",
+      "originalFilename": "20072551_i_20260330174358.jpg",
+      "savedPath": "public/images/products/imported/memory-cube-sleep-pillow/20072551_i_20260330174358-048ca8798b.jpg",
+      "downloadedAt": "2026-06-06T11:07:39.582Z",
+      "hash": "048ca8798b3b186a86cb7ba673ad5f890450e0fc0899056e751d827d966d132b",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_l_20260330174358.jpg?rs=720",
+      "originalFilename": "20072551_l_20260330174358.jpg",
+      "savedPath": "public/images/products/imported/memory-cube-sleep-pillow/20072551_l_20260330174358-6f6c3b1395.jpg",
+      "downloadedAt": "2026-06-06T11:07:39.606Z",
+      "hash": "6f6c3b139554e42250dddd790f301992b469fa572bb48c6a0eee1868269e1ff8",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_al_20260330174358.jpg?rs=720",
+      "originalFilename": "20072551_al_20260330174358.jpg",
+      "savedPath": "public/images/products/imported/memory-cube-sleep-pillow/20072551_al_20260330174358-6f037aa0a8.jpg",
+      "downloadedAt": "2026-06-06T11:07:39.630Z",
+      "hash": "6f037aa0a84474d459ffe6d5bdd3edad322eb200189d5eed41b110f5f6ce596b",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_bl_20260330174358.jpg?rs=720",
+      "originalFilename": "20072551_bl_20260330174358.jpg",
+      "savedPath": "public/images/products/imported/memory-cube-sleep-pillow/20072551_bl_20260330174358-20e1f4e66b.jpg",
+      "downloadedAt": "2026-06-06T11:07:39.651Z",
+      "hash": "20e1f4e66bf126fadfd3310d336da20ddbe120e815cf68ef6ceebf85782e0592",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_cl_20260330174358.jpg?rs=720",
+      "originalFilename": "20072551_cl_20260330174358.jpg",
+      "savedPath": "public/images/products/imported/memory-cube-sleep-pillow/20072551_cl_20260330174358-91487ed431.jpg",
+      "downloadedAt": "2026-06-06T11:07:39.674Z",
+      "hash": "91487ed431810b4e8c0e18f4a31f2e45a9df866a54283c860f2f8ba15d6e5297",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_dl_20260330174358.jpg?rs=720",
+      "originalFilename": "20072551_dl_20260330174358.jpg",
+      "savedPath": "public/images/products/imported/memory-cube-sleep-pillow/20072551_dl_20260330174358-9c9b16d8b5.jpg",
+      "downloadedAt": "2026-06-06T11:07:39.692Z",
+      "hash": "9c9b16d8b5350214244798db1a894a240bd2b2fcea20f78e857b7f7fcf20f8d3",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_i_20260320160345.jpg",
+      "originalFilename": "20072391_i_20260320160345.jpg",
+      "savedPath": "public/images/products/imported/high-frequency-washing-spread-3pcs/20072391_i_20260320160345-964d865b55.jpg",
+      "downloadedAt": "2026-06-06T11:07:40.464Z",
+      "hash": "964d865b5533664e0a00f8ceda8cb138881dc64862e0d6246290eac4f157eea3",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_l_20260320160345.jpg?rs=720",
+      "originalFilename": "20072391_l_20260320160345.jpg",
+      "savedPath": "public/images/products/imported/high-frequency-washing-spread-3pcs/20072391_l_20260320160345-2622c8169d.jpg",
+      "downloadedAt": "2026-06-06T11:07:40.511Z",
+      "hash": "2622c8169dc912b73a62cb7e01e62e2dfdc9f8b09776309baaa55e1fef94322a",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_al_20260320160345.jpg?rs=720",
+      "originalFilename": "20072391_al_20260320160345.jpg",
+      "savedPath": "public/images/products/imported/high-frequency-washing-spread-3pcs/20072391_al_20260320160345-d8eb30a36d.jpg",
+      "downloadedAt": "2026-06-06T11:07:40.550Z",
+      "hash": "d8eb30a36d3039aa74ee22612b5eee9a59afe3dfd8d3bda9756cae174cc7d9e6",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_bl_20260320160345.jpg?rs=720",
+      "originalFilename": "20072391_bl_20260320160345.jpg",
+      "savedPath": "public/images/products/imported/high-frequency-washing-spread-3pcs/20072391_bl_20260320160345-ac1fe4efed.jpg",
+      "downloadedAt": "2026-06-06T11:07:40.585Z",
+      "hash": "ac1fe4efed8aa6a731808c8e8cf7f9e5e808c5cd5acecfae630b6bfe674ef8c5",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_cl_20260320160345.jpg?rs=720",
+      "originalFilename": "20072391_cl_20260320160345.jpg",
+      "savedPath": "public/images/products/imported/high-frequency-washing-spread-3pcs/20072391_cl_20260320160345-142f31d364.jpg",
+      "downloadedAt": "2026-06-06T11:07:40.611Z",
+      "hash": "142f31d364e253d899c3fe1ba045eb761e7128002e15a0a83b05281f9d2a1a85",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_dl_20260320160345.jpg?rs=720",
+      "originalFilename": "20072391_dl_20260320160345.jpg",
+      "savedPath": "public/images/products/imported/high-frequency-washing-spread-3pcs/20072391_dl_20260320160345-b42e1e946a.jpg",
+      "downloadedAt": "2026-06-06T11:07:40.641Z",
+      "hash": "b42e1e946a6f442b09d77c3aad3a046c32e720bfc6f0e28e2bdea6d9b80809a6",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_i_20260327165624.jpg",
+      "originalFilename": "20072537_i_20260327165624.jpg",
+      "savedPath": "public/images/products/imported/cotton-quilting-washing-sofa-pad-carpet/20072537_i_20260327165624-55ff17a77d.jpg",
+      "downloadedAt": "2026-06-06T11:07:41.362Z",
+      "hash": "55ff17a77d8b014482e43bf3f6585c8a27e26bb8c7107fdbbfb3a3c40012b135",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_l_20260327165624.jpg?rs=720",
+      "originalFilename": "20072537_l_20260327165624.jpg",
+      "savedPath": "public/images/products/imported/cotton-quilting-washing-sofa-pad-carpet/20072537_l_20260327165624-85c4e0a17c.jpg",
+      "downloadedAt": "2026-06-06T11:07:41.398Z",
+      "hash": "85c4e0a17cf0d1f1c039cadd550d457afbf412bf341416899b50f3f46b0526c8",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_al_20260327165624.jpg?rs=720",
+      "originalFilename": "20072537_al_20260327165624.jpg",
+      "savedPath": "public/images/products/imported/cotton-quilting-washing-sofa-pad-carpet/20072537_al_20260327165624-c0962c44b8.jpg",
+      "downloadedAt": "2026-06-06T11:07:41.432Z",
+      "hash": "c0962c44b89b771883b837b4625160a6afe21d00042e603c5e526cdb18dcd2fa",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_bl_20260327165624.jpg?rs=720",
+      "originalFilename": "20072537_bl_20260327165624.jpg",
+      "savedPath": "public/images/products/imported/cotton-quilting-washing-sofa-pad-carpet/20072537_bl_20260327165624-65056e7917.jpg",
+      "downloadedAt": "2026-06-06T11:07:41.463Z",
+      "hash": "65056e79171ed72b35d57fa429f87d9fec79d7fba16435c6ef84a92750c23d56",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_cl_20260327165624.jpg?rs=720",
+      "originalFilename": "20072537_cl_20260327165624.jpg",
+      "savedPath": "public/images/products/imported/cotton-quilting-washing-sofa-pad-carpet/20072537_cl_20260327165624-43448b51f1.jpg",
+      "downloadedAt": "2026-06-06T11:07:41.503Z",
+      "hash": "43448b51f1a2d6183f12390c5595015c89e0b286e4fbb0bc5b72be427af999b9",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "originalUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_dl_20260327165624.jpg?rs=720",
+      "originalFilename": "20072537_dl_20260327165624.jpg",
+      "savedPath": "public/images/products/imported/cotton-quilting-washing-sofa-pad-carpet/20072537_dl_20260327165624-b3dc372001.jpg",
+      "downloadedAt": "2026-06-06T11:07:41.545Z",
+      "hash": "b3dc372001dd4f2deb5ff54e893620463acdc260b575fa66b24d0c4b537fb049",
+      "sourcePage": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "permissionSource": "신세계쇼핑 상품 이미지 CDN",
+      "permissionStatus": "PERMITTED_BY_RIGHTS_HOLDER",
+      "contentType": "image/jpeg"
+    }
+  ],
+  "skipped": [
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://www.facebook.com/tr?id=391166753791721&ev=PageView&noscript=1",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/popup/cart_popup.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/277/1000793277_l_20260518182034.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/278/1000793278_l_20260518182533.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/279/1000793279_l_20260518182920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/283/1000793283_l_20260518184105.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/285/1000793285_l_20260518184503.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/286/1000793286_l_20260518184856.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/807/20072807_l_20260408180031.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/806/20072806_l_20260408175611.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/805/20072805_l_20260408175508.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/804/20072804_l_20260408174132.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/802/20072802_l_20260408173829.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/570/20072570_l_20260330180134.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/569/20072569_l_20260330180036.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/568/20072568_l_20260330175920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_l_20260330174358.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/550/20072550_l_20260330174110.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/549/20072549_l_20260330173925.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_l_20260327165624.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/536/20072536_l_20260327165236.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/535/20072535_l_20260327164739.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/390/20072390_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/389/20072389_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/388/20072388_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/387/20072387_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/281/20072281_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/534/1113534_20250415140029.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/554/1129554_20260529160937.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/334/1108334_20250401001114.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_1.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_2.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_3.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_4.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_5.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_6.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_7.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_8.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_9.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_10.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_11.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_12.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_13.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_14.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_15.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_16.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_17.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_18.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_19.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_20.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_21.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_22.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_23.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_24.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_25.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_26.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_27.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_28.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/803/997_20072803_29.jpg?20260409133629",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/loading_ssg.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/component/icon_arrow_24x24.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_pickup.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_box25.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/img_appcard_info.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_%22+model.cardCode+%22.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/%22+imageUrl+%22",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_wooricard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_taste.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_quality.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_good.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_easy.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_cart.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_present.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_time.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_delivery.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_wallet.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_family.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_trust.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg/",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg?rs=160\\",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+url+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://www.facebook.com/tr?id=391166753791721&ev=PageView&noscript=1",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/popup/cart_popup.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/277/1000793277_l_20260518182034.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/278/1000793278_l_20260518182533.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/279/1000793279_l_20260518182920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/283/1000793283_l_20260518184105.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/285/1000793285_l_20260518184503.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/286/1000793286_l_20260518184856.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/807/20072807_l_20260408180031.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/806/20072806_l_20260408175611.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/805/20072805_l_20260408175508.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/804/20072804_l_20260408174132.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_l_20260408173906.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/802/20072802_l_20260408173829.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/570/20072570_l_20260330180134.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/569/20072569_l_20260330180036.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/568/20072568_l_20260330175920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/550/20072550_l_20260330174110.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/549/20072549_l_20260330173925.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_l_20260327165624.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/536/20072536_l_20260327165236.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/535/20072535_l_20260327164739.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/390/20072390_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/389/20072389_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/388/20072388_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/387/20072387_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/281/20072281_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/534/1113534_20250415140029.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/554/1129554_20260529160937.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/334/1108334_20250401001114.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_1.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_2.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_3.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_4.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_5.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_6.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_7.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_8.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_9.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_10.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_11.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_12.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_13.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_14.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_15.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_16.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_17.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_18.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_19.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_20.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_21.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_22.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_23.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_24.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_25.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_26.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_27.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_28.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_29.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_30.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_31.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_32.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_33.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_34.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/551/997_20072551_35.jpg?20260409133328",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/loading_ssg.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/component/icon_arrow_24x24.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_pickup.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_box25.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/img_appcard_info.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_%22+model.cardCode+%22.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/%22+imageUrl+%22",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_wooricard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_taste.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_quality.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_good.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_easy.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_cart.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_present.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_time.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_delivery.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_wallet.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_family.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_trust.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg/",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg?rs=160\\",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+url+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://www.facebook.com/tr?id=391166753791721&ev=PageView&noscript=1",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/popup/cart_popup.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/277/1000793277_l_20260518182034.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/278/1000793278_l_20260518182533.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/279/1000793279_l_20260518182920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/283/1000793283_l_20260518184105.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/285/1000793285_l_20260518184503.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/286/1000793286_l_20260518184856.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/807/20072807_l_20260408180031.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/806/20072806_l_20260408175611.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/805/20072805_l_20260408175508.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/804/20072804_l_20260408174132.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_l_20260408173906.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/802/20072802_l_20260408173829.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/570/20072570_l_20260330180134.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/569/20072569_l_20260330180036.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/568/20072568_l_20260330175920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_l_20260330174358.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/550/20072550_l_20260330174110.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/549/20072549_l_20260330173925.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_l_20260327165624.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/536/20072536_l_20260327165236.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/535/20072535_l_20260327164739.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/390/20072390_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/389/20072389_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/388/20072388_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/387/20072387_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/281/20072281_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/534/1113534_20250415140029.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/554/1129554_20260529160937.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/334/1108334_20250401001114.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_1.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_2.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_3.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_4.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_5.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_6.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_7.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_8.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_9.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_10.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_11.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_12.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_13.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_14.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_15.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_16.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_17.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_18.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_19.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_20.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_21.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_22.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_23.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_24.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_25.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_26.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_27.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_28.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_29.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/391/997_20072391_30.jpg?20260409133257",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/loading_ssg.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/component/icon_arrow_24x24.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_pickup.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_box25.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/img_appcard_info.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_%22+model.cardCode+%22.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/%22+imageUrl+%22",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_wooricard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_taste.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_quality.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_good.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_easy.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_cart.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_present.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_time.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_delivery.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_wallet.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_family.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_trust.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg/",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg?rs=160\\",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+url+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://www.facebook.com/tr?id=391166753791721&ev=PageView&noscript=1",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/popup/cart_popup.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/277/1000793277_l_20260518182034.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/278/1000793278_l_20260518182533.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/279/1000793279_l_20260518182920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/283/1000793283_l_20260518184105.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/285/1000793285_l_20260518184503.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/286/1000793286_l_20260518184856.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/807/20072807_l_20260408180031.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/806/20072806_l_20260408175611.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/805/20072805_l_20260408175508.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/804/20072804_l_20260408174132.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_l_20260408173906.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/802/20072802_l_20260408173829.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/570/20072570_l_20260330180134.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/569/20072569_l_20260330180036.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/568/20072568_l_20260330175920.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_l_20260330174358.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/550/20072550_l_20260330174110.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/549/20072549_l_20260330173925.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/536/20072536_l_20260327165236.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/535/20072535_l_20260327164739.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/390/20072390_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/389/20072389_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/388/20072388_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/387/20072387_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/281/20072281_l_20260320160345.jpg?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/534/1113534_20250415140029.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/554/1129554_20260529160937.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/banner/334/1108334_20250401001114.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_1.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_2.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_3.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_4.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_5.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_6.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_7.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_8.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_9.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_10.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_11.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_12.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_13.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_14.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_15.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_16.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_17.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_18.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_19.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_20.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_21.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_22.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_23.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_24.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_25.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_26.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_27.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_28.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_29.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_30.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_31.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_32.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_33.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_34.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods_images_QS/537/997_20072537_35.jpg?20260409133315",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/loading_ssg.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/component/icon_arrow_24x24.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_pickup.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/img_gs25_box25.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/img_appcard_info.jpg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_%22+model.cardCode+%22.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/%22+imageUrl+%22",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_shcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_kbcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_sscard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hdcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_bccard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_nhcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_hncard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_ltcard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/order/appcard/ico_wooricard.png",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'?rs=160",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.videoThumbnail+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/'+bestComment.commentImageUrl+'",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_taste.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_quality.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_good.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_easy.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_cart.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_present.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_time.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_delivery.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_wallet.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_family.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/resources_new/img/product/keyword_trust.svg",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg/",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/resources_new/img/upload_noimg.jpg?rs=160\\",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+url+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.videoThumbnail+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl2+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl3+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl4+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+viewList.commentImageUrl5+",
+      "reason": "not-current-product-goods-image"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://m.shinsegaetvshopping.com/display/detail/+data.commentVideoUrl+",
+      "reason": "not-current-product-goods-image"
+    }
+  ],
+  "warnings": [
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_g_20260408173906.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "daily-cool-full-package-8pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072803",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/803/20072803_l_20260408173906.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_g_20260330174358.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "memory-cube-sleep-pillow",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072551",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/551/20072551_l_20260330174358.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_g_20260320160345.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "high-frequency-washing-spread-3pcs",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072391",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/391/20072391_l_20260320160345.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_g_20260327165624.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    },
+    {
+      "productSlug": "cotton-quilting-washing-sofa-pad-carpet",
+      "pageUrl": "https://m.shinsegaetvshopping.com/display/detail/20072537",
+      "imageUrl": "https://img.shinsegaetvshopping.com/goods/537/20072537_l_20260327165624.jpg/",
+      "note": "failed to download image: Error: HTTP 404"
+    }
+  ],
+  "summary": {
+    "pagesChecked": 4,
+    "pagesSkipped": 0,
+    "imageUrlsFound": 508,
+    "imagesDownloaded": 23,
+    "imagesSkipped": 477,
+    "warnings": 8
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "extractedAt": "2026-06-06",
+  "permissionBasis": [
+    "루나앤슬립 관계자 직접 사용 허가",
+    "로컬 브랜드 소개서 제공 자료",
+    "판매처 상품 상세 페이지 공개 상품정보"
+  ],
+  "products": [
+    {
+      "slug": "daily-cool-full-package-8pcs",
+      "sources": [
+        "C:\\Users\\hwmic\\OneDrive\\바탕 화면\\루나앤슬립 브랜드 소개서-1.pptx",
+        "https://m.shinsegaetvshopping.com/display/detail/20072803"
+      ],
+      "contentUsed": ["로고", "상품 이미지", "구성", "소재", "색상", "사이즈", "세탁 주의사항", "배송/반품 기준", "FAQ 재구성"]
+    },
+    {
+      "slug": "memory-cube-sleep-pillow",
+      "sources": [
+        "https://m.shinsegaetvshopping.com/display/detail/20072551"
+      ],
+      "contentUsed": ["상품 이미지", "구성", "소재", "충전재", "색상", "치수", "세탁 주의사항", "배송/반품 기준", "FAQ 재구성"]
+    },
+    {
+      "slug": "high-frequency-washing-spread-3pcs",
+      "sources": [
+        "C:\\Users\\hwmic\\OneDrive\\바탕 화면\\루나앤슬립 브랜드 소개서-1.pptx",
+        "https://m.shinsegaetvshopping.com/display/detail/20072391"
+      ],
+      "contentUsed": ["상품 이미지", "구성", "소재", "색상", "치수", "세탁 주의사항", "배송/반품 기준", "FAQ 재구성"]
+    },
+    {
+      "slug": "cotton-quilting-washing-sofa-pad-carpet",
+      "sources": [
+        "C:\\Users\\hwmic\\OneDrive\\바탕 화면\\루나앤슬립 브랜드 소개서-1.pptx",
+        "https://m.shinsegaetvshopping.com/display/detail/20072537"
+      ],
+      "contentUsed": ["상품 이미지", "구성", "소재", "충전재", "색상", "치수", "세탁 주의사항", "배송/반품 기준", "FAQ 재구성"]
+    },
+    {
+      "slug": "soft-season-blanket",
+      "sources": [
+        "C:\\Users\\hwmic\\OneDrive\\바탕 화면\\루나앤슬립 브랜드 소개서-1.pptx"
+      ],
+      "contentUsed": ["상품 이미지", "브랜드 라인 카피", "FAQ 재구성"]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "일상냉감 패드 풀패키지 8종세트",
+      "slug": "daily-cool-full-package-8pcs",
+      "sourceUrls": [
+        "여기에 허락받은 상품 URL 입력"
+      ]
+    },
+    {
+      "name": "기능성 메모리큐브 숙면베개",
+      "slug": "memory-cube-sleep-pillow",
+      "sourceUrls": [
+        "여기에 허락받은 상품 URL 입력"
+      ]
+    },
+    {
+      "name": "목화솜 자수퀼팅 통워싱 소파패드 & 카페트",
+      "slug": "cotton-quilting-washing-sofa-pad-carpet",
+      "sourceUrls": [
+        "여기에 허락받은 상품 URL 입력"
+      ]
+    }
+  ]
+}

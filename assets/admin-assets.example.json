@@ -1,0 +1,47 @@
+{
+  "model": "AdminAsset",
+  "sourceTypes": [
+    "DIRECT_SHOOT",
+    "BRAND_PROVIDED",
+    "STORE_PERMISSION",
+    "NEEDS_CONFIRMATION"
+  ],
+  "usageTypes": [
+    "THUMBNAIL",
+    "GALLERY",
+    "DETAIL",
+    "BANNER"
+  ],
+  "assets": [
+    {
+      "id": "asset-daily-cool-placeholder",
+      "productId": "prod-daily-cool",
+      "fileName": "daily-cool-placeholder.png",
+      "filePath": "public/images/products/placeholder/daily-cool-placeholder.png",
+      "sourceType": "BRAND_PROVIDED",
+      "sourceUrl": null,
+      "permissionNote": "브랜드형 placeholder 이미지. 실제 허락받은 쇼핑몰 이미지 수령 후 교체.",
+      "alt": "일상냉감 패드 풀패키지 제품 이미지",
+      "usageType": "THUMBNAIL",
+      "isApproved": true,
+      "sortOrder": 1,
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "updatedAt": "2026-06-06T00:00:00.000Z"
+    },
+    {
+      "id": "asset-store-permission-pending",
+      "productId": "prod-memory-pillow",
+      "fileName": "store-permission-sample.webp",
+      "filePath": "public/images/products/imported/memory-cube-sleep-pillow/store-permission-sample.webp",
+      "sourceType": "NEEDS_CONFIRMATION",
+      "sourceUrl": "운영자가 허락받은 상품 URL 입력",
+      "permissionNote": "출처와 허락 범위 확인 전까지 고객 화면 비노출.",
+      "alt": "메모리큐브 숙면베개 확인 필요 이미지",
+      "usageType": "GALLERY",
+      "isApproved": false,
+      "sortOrder": 2,
+      "createdAt": "2026-06-06T00:00:00.000Z",
+      "updatedAt": "2026-06-06T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LUNA&SLEEP 공식 자사몰</title>
+    <link rel="stylesheet" href="/src/styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="/" data-route>
+        <span class="brand-mark"><img src="/public/images/brand/luna-sleep-logo.jpeg" alt=""></span>
+        <span>
+          <strong>LUNA&SLEEP</strong>
+          <small>official mall</small>
+        </span>
+      </a>
+      <nav class="main-nav" aria-label="주요 메뉴">
+        <a href="/" data-route>쇼핑</a>
+        <a href="/cart" data-route>장바구니 <span id="cart-count" class="nav-count">0</span></a>
+        <a href="/mypage" data-route>마이페이지</a>
+        <a href="/admin/products" data-route>관리자</a>
+      </nav>
+    </header>
+    <main id="app" class="app-shell"></main>
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+    <script src="/src/app.js"></script>
+  </body>
+</html>
