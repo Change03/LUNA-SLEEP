@@ -806,13 +806,15 @@ function renderProduct(slug) {
         </form>
       </div>
     </section>
-    <section class="content-sections">
-      ${detailSection("브랜드가 제안하는 편안함", product.why)}
-      ${pointsSection(product)}
-      ${detailSection("구성", product.composition)}
-      ${detailSection("컬러", product.colors.join(", "))}
-      ${detailSection("사이즈", product.sizes.join(", "))}
-      ${listSection("이런 분께 추천", product.recommendedFor)}
+    <nav class="detail-anchor-bar" aria-label="상품 상세 바로가기">
+      <a href="#detail-summary">요약</a>
+      <a href="#detail-benefits">포인트</a>
+      <a href="#detail-scenes">이미지</a>
+      <a href="#detail-info">상품정보</a>
+      <a href="#detail-faq">FAQ</a>
+    </nav>
+    ${salesDetailPage(product, gallery, detailImages)}
+    <section id="detail-info" class="content-sections">
       ${productNoticeSection(product)}
       ${careNoticeSection(product)}
       ${shippingReturnsSection(product)}
@@ -826,6 +828,125 @@ function renderProduct(slug) {
       ${reviewQnaSection(product)}
     </section>
   `;
+}
+
+function salesDetailPage(product, gallery, detailImages) {
+  const media = salesMedia(product, gallery, detailImages);
+  const material = specValue(product, ["제품소재", "충전재"]) || product.materialCare;
+  const storyTitle = "구성부터 확인하세요.";
+  const lead = `${product.name}은 ${product.composition}을 중심으로 ${product.colors.slice(0, 3).join(", ")} 컬러와 ${product.sizes.join(", ")} 사이즈를 한 번에 비교할 수 있게 정리했습니다.`;
+  const benefits = product.points.slice(0, 4);
+  const moments = product.recommendedFor.slice(0, 3);
+  const checklist = [
+    `구성: ${product.composition}`,
+    `컬러: ${product.colors.join(" / ")}`,
+    `사이즈: ${product.sizes.join(" / ")}`,
+    `소재: ${material}`
+  ];
+
+  return `
+    <section class="sales-page">
+      <section id="detail-summary" class="sales-section sales-summary">
+        <div>
+          <p class="eyebrow">3초 요약</p>
+          <h2>${escapeHtml(storyTitle)}</h2>
+          <p>${escapeHtml(lead)}</p>
+        </div>
+        <div class="summary-tile-grid">
+          ${summaryTile("구성", product.composition)}
+          ${summaryTile("컬러", product.colors.join(" / "))}
+          ${summaryTile("사이즈", product.sizes.join(" / "))}
+          ${summaryTile("배송", product.shippingFee === 0 ? "무료배송" : `${money(product.freeShippingThreshold)} 이상 무료배송`)}
+        </div>
+      </section>
+      <section id="detail-benefits" class="sales-section">
+        <div class="sales-heading">
+          <p class="eyebrow">Why It Works</p>
+          <h2>구매 전에 바로 확인해야 할 포인트</h2>
+          <p>${escapeHtml(product.why)}</p>
+        </div>
+        <div class="benefit-grid">
+          ${benefits.map((benefit, index) => `
+            <article class="benefit-card">
+              <span>${String(index + 1).padStart(2, "0")}</span>
+              <strong>${escapeHtml(benefit)}</strong>
+            </article>
+          `).join("")}
+        </div>
+      </section>
+      <section class="sales-section visual-story">
+        <div class="visual-copy">
+          <p class="eyebrow">Use Scene</p>
+          <h2>어떤 공간에 어울리는지 먼저 보여드립니다.</h2>
+          <ul>
+            ${moments.map((moment) => `<li>${escapeHtml(moment)}</li>`).join("")}
+          </ul>
+        </div>
+        <div class="visual-image">
+          <img src="${escapeHtml(pathToSrc(media[0]))}" alt="${escapeHtml(media[0]?.alt || product.name)}" loading="lazy">
+        </div>
+      </section>
+      <section class="sales-section package-section">
+        <div>
+          <p class="eyebrow">Package Guide</p>
+          <h2>구성, 컬러, 사이즈를 한눈에</h2>
+        </div>
+        <div class="package-grid">
+          ${checklist.map((item) => `<div>${escapeHtml(item)}</div>`).join("")}
+        </div>
+      </section>
+      <section id="detail-scenes" class="sales-section">
+        <div class="sales-heading">
+          <p class="eyebrow">Detail Scene</p>
+          <h2>사진으로 보는 상품 디테일</h2>
+          <p>대표 이미지부터 사용 장면까지 이어서 보며 실제 분위기를 빠르게 파악할 수 있습니다.</p>
+        </div>
+        <div class="scene-grid">
+          ${media.slice(0, 4).map((assetItem, index) => `
+            <figure>
+              <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem?.alt || product.name)}" loading="lazy">
+              <figcaption>${escapeHtml(sceneCaption(product, index))}</figcaption>
+            </figure>
+          `).join("")}
+        </div>
+      </section>
+    </section>
+  `;
+}
+
+function summaryTile(label, value) {
+  return `
+    <div class="summary-tile">
+      <span>${escapeHtml(label)}</span>
+      <strong>${escapeHtml(value)}</strong>
+    </div>
+  `;
+}
+
+function salesMedia(product, gallery, detailImages) {
+  const seen = new Set();
+  const items = [...gallery, ...detailImages, primaryImage(product)].filter(Boolean);
+  return items.filter((item) => {
+    const key = item.filePath || item.previewUrl || item.id;
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+function sceneCaption(product, index) {
+  const captions = [
+    `${product.line} 대표 연출`,
+    `${product.composition} 구성 확인`,
+    `${product.colors.slice(0, 3).join(" / ")} 컬러 무드`,
+    `${product.category} 공간에 맞춘 활용 장면`
+  ];
+  return captions[index] || product.name;
+}
+
+function specValue(product, labels) {
+  const row = product.specs?.find(([label]) => labels.some((keyword) => label.includes(keyword)));
+  return row?.[1] || "";
 }
 
 function detailSection(title, body) {
@@ -920,7 +1041,7 @@ function faqSection(product) {
     return "";
   }
   return `
-    <div class="detail-section">
+    <div id="detail-faq" class="detail-section">
       <h2>자주 묻는 질문</h2>
       <div class="faq-list">
         ${product.faqs.map(([question, answer]) => `

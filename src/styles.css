@@ -631,6 +631,7 @@ a {
 }
 
 .product-brief strong {
+  min-width: 0;
   color: var(--ink);
   line-height: 1.55;
 }
@@ -701,7 +702,246 @@ a {
 .content-sections {
   display: grid;
   gap: 20px;
-  margin-top: 36px;
+  margin-top: 28px;
+}
+
+.detail-anchor-bar {
+  position: sticky;
+  top: 78px;
+  z-index: 12;
+  display: flex;
+  gap: 8px;
+  margin: 36px 0 18px;
+  padding: 10px;
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 254, 250, 0.92);
+  box-shadow: 0 12px 30px rgba(31, 34, 30, 0.07);
+  backdrop-filter: blur(14px);
+  scrollbar-width: none;
+}
+
+.detail-anchor-bar::-webkit-scrollbar {
+  display: none;
+}
+
+.detail-anchor-bar a {
+  flex: 0 0 auto;
+  min-width: 84px;
+  border-radius: 8px;
+  padding: 10px 14px;
+  background: #ffffff;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.detail-anchor-bar a:hover {
+  background: var(--ink);
+  color: #ffffff;
+}
+
+.sales-page {
+  display: grid;
+  gap: 28px;
+}
+
+.sales-section {
+  border-top: 1px solid var(--line);
+  padding: clamp(30px, 5vw, 58px) 0;
+}
+
+.sales-summary {
+  display: grid;
+  grid-template-columns: minmax(0, 0.95fr) minmax(360px, 1.05fr);
+  gap: clamp(24px, 4vw, 48px);
+  align-items: center;
+}
+
+.sales-summary > div,
+.sales-heading,
+.visual-copy,
+.package-section > div {
+  min-width: 0;
+}
+
+.sales-summary h2,
+.sales-heading h2,
+.visual-copy h2,
+.package-section h2 {
+  margin: 0;
+  font-size: clamp(30px, 4.8vw, 54px);
+  line-height: 1.12;
+  letter-spacing: 0;
+}
+
+.sales-summary p,
+.sales-heading p,
+.visual-copy li {
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.summary-tile-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.summary-tile {
+  min-height: 132px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  background: var(--surface);
+  box-shadow: 0 12px 28px rgba(31, 34, 30, 0.06);
+}
+
+.summary-tile span {
+  display: block;
+  margin-bottom: 12px;
+  color: var(--sage-deep);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.summary-tile strong {
+  display: block;
+  min-width: 0;
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1.45;
+}
+
+.sales-heading {
+  max-width: 780px;
+  margin-bottom: 20px;
+}
+
+.benefit-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.benefit-card {
+  display: grid;
+  align-content: space-between;
+  min-height: 190px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  background: #ffffff;
+  box-shadow: 0 12px 28px rgba(31, 34, 30, 0.05);
+}
+
+.benefit-card span {
+  color: var(--coral);
+  font-size: 13px;
+  font-weight: 900;
+}
+
+.benefit-card strong {
+  display: block;
+  color: var(--ink);
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.visual-story {
+  display: grid;
+  grid-template-columns: minmax(280px, 0.8fr) minmax(0, 1.2fr);
+  gap: clamp(22px, 4vw, 46px);
+  align-items: center;
+}
+
+.visual-copy {
+  display: grid;
+  gap: 14px;
+}
+
+.visual-copy ul {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.visual-copy li {
+  border-left: 3px solid var(--sage);
+  padding-left: 14px;
+}
+
+.visual-image {
+  overflow: hidden;
+  border-radius: 8px;
+  background: #eef1ec;
+  box-shadow: 0 20px 48px rgba(31, 34, 30, 0.1);
+}
+
+.visual-image img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+}
+
+.package-section {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.7fr) minmax(0, 1.3fr);
+  gap: clamp(22px, 4vw, 44px);
+  align-items: start;
+}
+
+.package-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.package-grid div {
+  min-height: 98px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 16px;
+  background:
+    linear-gradient(135deg, rgba(124, 152, 125, 0.1), rgba(255, 254, 250, 0.92)),
+    #ffffff;
+  color: var(--ink);
+  font-weight: 900;
+  line-height: 1.55;
+}
+
+.scene-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.scene-grid figure {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #ffffff;
+  box-shadow: 0 12px 28px rgba(31, 34, 30, 0.05);
+}
+
+.scene-grid img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+}
+
+.scene-grid figcaption {
+  min-height: 58px;
+  padding: 12px 14px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 1.45;
 }
 
 .detail-section {
@@ -1037,7 +1277,10 @@ a {
   .two-column,
   .admin-layout,
   .brand-band,
-  .cool-band {
+  .cool-band,
+  .sales-summary,
+  .visual-story,
+  .package-section {
     grid-template-columns: 1fr;
   }
 
@@ -1070,6 +1313,11 @@ a {
 
   .policy-grid {
     grid-template-columns: 1fr;
+  }
+
+  .benefit-grid,
+  .scene-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -1126,9 +1374,21 @@ a {
 
   .section-title h2,
   .section-title p,
-  .hero p {
+  .hero p,
+  .detail-copy h1,
+  .detail-copy .subcopy,
+  .product-brief strong,
+  .sales-summary h2,
+  .summary-tile strong,
+  .package-grid div,
+  .scene-grid figcaption {
     word-break: normal;
     overflow-wrap: anywhere;
+  }
+
+  .product-brief div {
+    grid-template-columns: 1fr;
+    gap: 5px;
   }
 
   .section-title p {
@@ -1144,6 +1404,26 @@ a {
 
   .hero-strip {
     display: none;
+  }
+
+  .detail-anchor-bar {
+    top: 128px;
+    margin-top: 24px;
+  }
+
+  .detail-anchor-bar a {
+    min-width: 72px;
+    padding: 9px 12px;
+    font-size: 13px;
+  }
+
+  .detail-copy h1 {
+    font-size: 29px;
+    line-height: 1.16;
+  }
+
+  .detail-copy .subcopy {
+    font-size: 15px;
   }
 
   .thumbnail-carousel {
@@ -1176,6 +1456,31 @@ a {
 
   .spec-table td {
     padding-top: 0;
+  }
+
+  .sales-summary h2,
+  .sales-heading h2,
+  .visual-copy h2,
+  .package-section h2 {
+    font-size: 26px;
+    line-height: 1.18;
+  }
+
+  .summary-tile-grid,
+  .benefit-grid,
+  .package-grid,
+  .scene-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .summary-tile,
+  .benefit-card,
+  .package-grid div {
+    min-height: auto;
+  }
+
+  .scene-grid img {
+    aspect-ratio: 4 / 3;
   }
 
   .product-grid,
