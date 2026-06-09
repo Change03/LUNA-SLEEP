@@ -1722,5 +1722,298 @@ document.addEventListener("change", async (event) => {
   renderAdmin("/admin/assets");
 });
 
+function applyProductPresentation() {
+  const copy = {
+    "prod-daily-cool": {
+      displayName: "일상냉감 패드 풀패키지 8종",
+      line: "Cool Bedding",
+      category: "침구",
+      mainCopy: "잠드는 순간부터 산뜻하게 닿는 여름 침구 세트.",
+      subCopy: "패드와 베개커버를 한 번에 맞춰 침실 전체를 차분하고 시원하게 정돈합니다.",
+      composition: "냉감패드 2장, 냉감 베개커버 4장, 베개솜 2개",
+      colors: ["그레이", "블루", "핑크"],
+      sizes: ["SS", "Q", "K"],
+      options: [
+        { name: "사이즈", values: ["SS", "Q", "K"] },
+        { name: "컬러", values: ["그레이", "블루", "핑크"] }
+      ],
+      points: ["피부에 닿는 첫 촉감이 산뜻합니다.", "침실 전체를 맞추기 좋은 풀패키지 구성입니다.", "밝은 컬러감으로 여름 침실을 가볍게 만듭니다.", "패드와 커버를 함께 관리하기 쉽습니다."],
+      recommendedFor: ["여름 침구를 한 번에 바꾸고 싶은 분", "침실 컬러를 통일하고 싶은 분", "가볍고 산뜻한 촉감을 선호하는 분"]
+    },
+    "prod-memory-pillow": {
+      displayName: "메모리큐브 수면베개 4세트",
+      line: "Sleep Support",
+      category: "베개",
+      mainCopy: "머리와 목을 안정적으로 받쳐주는 데일리 베개.",
+      subCopy: "담백한 컬러와 실용적인 세트 구성으로 가족 침구를 간결하게 맞출 수 있습니다.",
+      composition: "베개 4개, 베개커버 4장",
+      colors: ["화이트", "그레이"],
+      sizes: ["40x60x5cm"],
+      options: [
+        { name: "구성", values: ["베개 4개 + 베개커버 4장"] },
+        { name: "컬러", values: ["화이트 2개 + 그레이 2개"] }
+      ],
+      points: ["낮은 높이감으로 부담 없이 사용할 수 있습니다.", "커버 포함 구성이라 바로 세팅하기 좋습니다.", "무채색 톤으로 어떤 침실에도 잘 어울립니다.", "여분 베개까지 한 번에 준비할 수 있습니다."],
+      recommendedFor: ["가족용 베개를 통일하고 싶은 분", "높은 베개가 불편한 분", "깔끔한 침실 구성을 선호하는 분"]
+    },
+    "prod-sofa-pad": {
+      displayName: "워싱 퀼팅 소파패드 3종",
+      line: "Living Soft",
+      category: "리빙",
+      mainCopy: "거실의 표정을 부드럽게 바꾸는 퀼팅 패드.",
+      subCopy: "소파, 러그, 침대 사이드까지 생활 공간 곳곳에 자연스럽게 놓입니다.",
+      composition: "소파패드 2장, 다용도 매트 1장",
+      colors: ["그레이", "베이지", "블루", "핑크"],
+      sizes: ["90x240cm", "40x60cm"],
+      options: [
+        { name: "구성", values: ["소파패드 2장 + 다용도 매트 1장"] },
+        { name: "컬러", values: ["그레이", "베이지", "블루", "핑크"] }
+      ],
+      points: ["소파와 바닥에 모두 활용하기 좋습니다.", "퀼팅 텍스처가 공간을 차분하게 정돈합니다.", "계절과 인테리어에 맞춰 고르기 쉬운 컬러입니다.", "세탁 관리가 쉬운 데일리 리빙 아이템입니다."],
+      recommendedFor: ["거실 분위기를 조용히 바꾸고 싶은 분", "소파 오염을 줄이고 싶은 분", "패드와 매트를 함께 쓰고 싶은 분"]
+    },
+    "prod-washing-spread": {
+      displayName: "워싱 스프레드 3종 패키지",
+      line: "Sleep Line",
+      category: "침구",
+      mainCopy: "침대를 가볍고 단정하게 정리하는 워싱 스프레드.",
+      subCopy: "계절에 따라 이불 또는 레이어드 커버로 활용하기 좋은 실용적인 침구입니다.",
+      composition: "스프레드 3장, 베개커버 6장",
+      colors: ["샌드", "그레이", "화이트"],
+      sizes: ["SS", "Q", "SK"],
+      options: [
+        { name: "사이즈", values: ["SS", "Q", "SK"] },
+        { name: "구성", values: ["스프레드 3장", "베개커버 포함 패키지"] }
+      ],
+      points: ["침대를 빠르게 정돈하기 좋습니다.", "가벼운 두께로 사계절 활용도가 높습니다.", "베개커버까지 맞춰 완성도가 높습니다.", "차분한 톤으로 호텔 침실처럼 보입니다."],
+      recommendedFor: ["침대를 늘 단정하게 유지하고 싶은 분", "가볍게 덮을 침구가 필요한 분", "무난한 컬러의 패키지를 찾는 분"]
+    },
+    "prod-blanket": {
+      displayName: "소프트 시즌 블랭킷",
+      line: "Season Touch",
+      category: "블랭킷",
+      mainCopy: "소파와 침대 어디에나 가볍게 얹는 시즌 블랭킷.",
+      subCopy: "포근한 질감과 담백한 패턴으로 작은 휴식 공간까지 부드럽게 완성합니다.",
+      composition: "블랭킷 단품",
+      colors: ["크림", "베이지", "그레이"],
+      sizes: ["싱글", "라지"],
+      options: [
+        { name: "사이즈", values: ["싱글", "라지"] },
+        { name: "컬러", values: ["크림", "베이지", "그레이"] }
+      ],
+      points: ["거실과 침실에서 함께 쓰기 좋습니다.", "부담 없는 선물용 아이템입니다.", "패턴이 과하지 않아 공간에 잘 섞입니다.", "계절 사이 간절기에 활용도가 높습니다."],
+      recommendedFor: ["소파 위 가벼운 담요가 필요한 분", "선물하기 좋은 홈 패브릭을 찾는 분", "침실에 작은 포인트를 더하고 싶은 분"]
+    }
+  };
+
+  products.forEach((product) => {
+    Object.assign(product, copy[product.id] || {});
+    product.why = product.points?.join(" ");
+    product.materialCare = "중성세제를 사용해 단독 세탁하고 그늘에서 자연 건조해 주세요.";
+    product.shippingPolicy = {
+      delivery: product.shippingFee === 0 ? "무료배송" : "5만원 이상 무료배송",
+      schedule: "결제 완료 후 영업일 기준 1-3일 내 출고",
+      returnFee: "단순 변심 반품/교환 배송비는 왕복 배송비 기준으로 안내",
+      limitation: "사용 흔적이 있거나 세탁한 상품은 반품이 제한될 수 있습니다."
+    };
+  });
+}
+
+function money(value) {
+  return `${Number(value || 0).toLocaleString("ko-KR")}원`;
+}
+
+function renderHome() {
+  document.getElementById("app").innerHTML = `
+    <section class="hero editorial-hero">
+      <div class="hero-media"><img src="/public/images/brand/brand-hero-bed.jpeg" alt="LUNA&SLEEP 침실 스타일링"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">LUNA&SLEEP OFFICIAL</p>
+        <h1>매일의 침실을 더 조용하고 선명하게.</h1>
+        <p>호텔식 침구의 단정함과 생활 패브릭의 편안함을 한 화면에서 고를 수 있게 정리했습니다.</p>
+        <div class="hero-actions">
+          <a class="solid-button" href="#products">컬렉션 보기</a>
+          <a class="ghost-button" href="#brand-lines">라인 둘러보기</a>
+        </div>
+      </div>
+      <div class="hero-strip">
+        <span><strong>Cool Bedding</strong> 여름 침실을 산뜻하게</span>
+        <span><strong>Sleep Support</strong> 매일 쓰는 베개와 커버</span>
+        <span><strong>Living Soft</strong> 거실까지 이어지는 촉감</span>
+      </div>
+    </section>
+    <section id="products" class="shop-section">
+      <div class="section-title">
+        <div>
+          <p class="eyebrow">New Essentials</p>
+          <h2>지금 필요한 침구와 리빙</h2>
+          <p>대표 상품만 넓은 이미지와 정확한 정보로 보여줍니다.</p>
+        </div>
+      </div>
+      <div class="product-grid">
+        ${products.map(productCard).join("")}
+      </div>
+    </section>
+    <section class="brand-band">
+      <div>
+        <p class="eyebrow">Brand Note</p>
+        <h2>복잡한 장식보다 좋은 소재감과 정돈된 선택.</h2>
+      </div>
+      <p>LUNA&SLEEP은 침실, 거실, 계절 패브릭을 단정한 상품 구조로 제안합니다. 큰 이미지와 명확한 구성 정보에 집중해 구매 전 필요한 판단을 빠르게 돕습니다.</p>
+    </section>
+    <section id="brand-lines" class="line-grid">
+      ${lineCard("Cool Bedding", "여름 침실을 가볍게", "냉감 패드와 커버 구성으로 더운 계절의 침실을 산뜻하게 바꿉니다.", "/public/images/products/brand-deck/daily-cool-full-package-8pcs/daily-cool-bedroom-blue.jpeg")}
+      ${lineCard("Sleep Support", "매일의 수면을 단정하게", "베개와 스프레드처럼 매일 쓰는 침구를 실용적인 세트로 제안합니다.", "/public/images/products/brand-deck/high-frequency-washing-spread-3pcs/washing-spread-room.jpeg")}
+      ${lineCard("Living Soft", "거실까지 이어지는 촉감", "소파패드와 블랭킷으로 생활 공간의 분위기를 부드럽게 정돈합니다.", "/public/images/products/brand-deck/cotton-quilting-washing-sofa-pad-carpet/sofa-pad-living-room.jpeg")}
+    </section>
+  `;
+}
+
+function productCard(product) {
+  const image = primaryImage(product);
+  return `
+    <article class="product-card">
+      <a href="/products/${product.slug}" data-route>
+        <div class="product-media">
+          <img src="${escapeHtml(pathToSrc(image))}" alt="${escapeHtml(image.alt || displayProductName(product))}" loading="lazy">
+        </div>
+        <div class="product-body">
+          <div class="card-tags">
+            <span class="line-label">${escapeHtml(product.line)}</span>
+            <span>${escapeHtml(product.category)}</span>
+          </div>
+          <h3>${productNameMarkup(displayProductName(product))}</h3>
+          <p class="product-summary">${escapeHtml(product.mainCopy)}</p>
+          ${priceMarkup(product)}
+          <div class="product-meta">
+            <span>${escapeHtml(product.composition)}</span>
+            <span>${product.shippingFee === 0 ? "무료배송" : "5만원 이상 무료배송"}</span>
+          </div>
+        </div>
+      </a>
+    </article>
+  `;
+}
+
+function renderProduct(slug) {
+  const product = bySlug(slug);
+  if (!product) return renderNotFound();
+
+  const gallery = visibleAssets(product, ["THUMBNAIL", "GALLERY"]);
+  const selectedId = state.selectedImage[product.id] || gallery[0].id;
+  const selected = gallery.find((assetItem) => assetItem.id === selectedId) || gallery[0];
+  const media = salesMedia(product, gallery, visibleAssets(product, "DETAIL"));
+
+  document.getElementById("app").innerHTML = `
+    <section class="detail-layout">
+      <div class="gallery-shell">
+        <div class="gallery-main">
+          <img src="${escapeHtml(pathToSrc(selected))}" alt="${escapeHtml(selected.alt || displayProductName(product))}">
+        </div>
+        <div class="thumbnail-carousel">
+          <button class="gallery-arrow" type="button" data-action="gallery-scroll" data-track-id="thumbs-${product.id}" data-delta="-1" aria-label="이전 이미지">&lsaquo;</button>
+          <div id="thumbs-${product.id}" class="thumbnail-row">
+            ${gallery.map((assetItem) => `
+              <button class="thumb-button ${assetItem.id === selected.id ? "active" : ""}" data-action="select-image" data-product-id="${product.id}" data-asset-id="${assetItem.id}" aria-label="이미지 선택">
+                <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem.alt || displayProductName(product))}" loading="lazy">
+              </button>
+            `).join("")}
+          </div>
+          <button class="gallery-arrow" type="button" data-action="gallery-scroll" data-track-id="thumbs-${product.id}" data-delta="1" aria-label="다음 이미지">&rsaquo;</button>
+        </div>
+      </div>
+      <div class="detail-copy">
+        <div class="title-meta">
+          <span class="line-label">${escapeHtml(product.line)}</span>
+          <span>${escapeHtml(product.category)}</span>
+        </div>
+        <h1>${productNameMarkup(displayProductName(product))}</h1>
+        <p class="product-lead">${escapeHtml(product.mainCopy)}</p>
+        <p class="subcopy">${escapeHtml(product.subCopy)}</p>
+        ${priceMarkup(product, "margin-top: 20px;")}
+        <div class="product-brief">
+          <div><span>구성</span><strong>${escapeHtml(product.composition)}</strong></div>
+          <div><span>컬러</span><strong>${escapeHtml(product.colors.join(" / "))}</strong></div>
+          <div><span>사이즈</span><strong>${escapeHtml(product.sizes.join(" / "))}</strong></div>
+        </div>
+        <form data-form="add-cart" data-product-id="${product.id}">
+          <div class="option-grid">
+            ${product.options.map((option) => `
+              <label class="field">
+                <span>${escapeHtml(option.name)}</span>
+                <select name="${escapeHtml(option.name)}">
+                  ${option.values.map((value) => `<option value="${escapeHtml(value)}">${escapeHtml(value)}</option>`).join("")}
+                </select>
+              </label>
+            `).join("")}
+            <label class="field">
+              <span>수량</span>
+              <input type="number" name="qty" value="1" min="1" max="99">
+            </label>
+          </div>
+          <div class="button-row">
+            <button class="solid-button" type="submit">장바구니 담기</button>
+            <a class="ghost-button" href="/cart" data-route>장바구니 보기</a>
+          </div>
+        </form>
+      </div>
+    </section>
+    <section class="sales-page">
+      <section class="sales-section sales-summary">
+        <div>
+          <p class="eyebrow">Overview</p>
+          <h2>구매 전 필요한 정보만 선명하게.</h2>
+          <p>${escapeHtml(product.subCopy)}</p>
+        </div>
+        <div class="summary-tile-grid">
+          ${summaryTile("구성", product.composition)}
+          ${summaryTile("컬러", product.colors.join(" / "))}
+          ${summaryTile("사이즈", product.sizes.join(" / "))}
+          ${summaryTile("배송", product.shippingPolicy.delivery)}
+        </div>
+      </section>
+      <section class="sales-section">
+        <div class="sales-heading">
+          <p class="eyebrow">Details</p>
+          <h2>이 상품을 고르는 이유</h2>
+        </div>
+        <div class="benefit-grid">
+          ${product.points.map((point, index) => `
+            <article class="benefit-card">
+              <span>${String(index + 1).padStart(2, "0")}</span>
+              <strong>${escapeHtml(point)}</strong>
+            </article>
+          `).join("")}
+        </div>
+      </section>
+      <section class="sales-section">
+        <div class="sales-heading">
+          <p class="eyebrow">Scenes</p>
+          <h2>사진으로 보는 무드</h2>
+        </div>
+        <div class="scene-grid">
+          ${media.slice(0, 4).map((assetItem, index) => `
+            <figure>
+              <img src="${escapeHtml(pathToSrc(assetItem))}" alt="${escapeHtml(assetItem?.alt || displayProductName(product))}" loading="lazy">
+              <figcaption>${escapeHtml(sceneCaption(product, index))}</figcaption>
+            </figure>
+          `).join("")}
+        </div>
+      </section>
+    </section>
+  `;
+}
+
+function sceneCaption(product, index) {
+  const captions = [
+    `${product.line} 대표 이미지`,
+    `${product.composition} 구성 확인`,
+    `${product.colors.slice(0, 3).join(" / ")} 컬러 무드`,
+    `${product.category} 공간 스타일링`
+  ];
+  return captions[index] || displayProductName(product);
+}
+
+applyProductPresentation();
 window.addEventListener("popstate", render);
 render();
